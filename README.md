@@ -8,6 +8,9 @@ My research interests include the core of database systems (query optimizer, que
 
 You can find a full list of my publications [here](https://tiagokepe.github.io/).
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tiagokepe&theme=white-black)](https://github.com/tiagokepe/github-readme-stats)
+
+
 <div style="text-align: center">
   <a href="https://tiagokepe.github.io/tiagokepe/">
     <img src="https://github-readme-stats.vercel.app/api?username=tiagokepe&show_icons=true&include_all_commits=true%20&count_private=true&disable_animations=true" width="50%" height="auto">
