@@ -22,7 +22,7 @@ You can find a full list of my publications [here](https://tiagokepe.github.io/)
   </a>
   <br>
   <a href="https://tiagokepe.github.io/tiagokepe/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagokepe&layout=compact&disable_animations=true&langs_count=6" width="50%" height="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagokepe&layout=compact&disable_animations=true&langs_count=8" width="50%" height="auto">
   </a>
 </div>
 
