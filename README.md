@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 I'm Tiago and an active collaborator on open-source projects like DuckDB.
-My research interests include the core of database systems (query optimizer, query exectution engine, data storage subsystems), and building APIs for data integration.
+My research interests include the core of database systems (query optimizer, query execution engine, data storage subsystems), and building APIs for data integration.
 
 You can find a full list of my publications [here](https://tiagokepe.github.io/).
 
