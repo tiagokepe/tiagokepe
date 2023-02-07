@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tiagokepe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagokepe@gmail.com)](mailto:tiagokepe@gmail.com)
 
 ## Hi there 👋
-I'm Tiago and an active collaborator on open-source projects like DuckDB.
+I'm Tiago and an active collaborator on open-source projects like [DuckDB](https://duckdb.org/) and [Velox](https://github.com/facebookincubator/velox/).
 My research interests include the core of database systems (query optimizer, query execution engine, data storage subsystems), and building APIs for data integration.
 
 You can find a full list of my publications [here](https://tiagokepe.github.io/).
