@@ -6,7 +6,9 @@
 I'm Tiago and an active collaborator on open-source projects like [DuckDB](https://duckdb.org/) and [Velox](https://github.com/facebookincubator/velox/).
 My research interests include the core of database systems (query optimizer, query execution engine, data storage subsystems), and building APIs for data integration.
 
+<!--
 You can find a full list of my publications [here](https://tiagokepe.github.io/).
+-->
 
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tiagokepe&theme=white-black)]
